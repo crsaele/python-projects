@@ -1,0 +1,13 @@
+Es un programa escrito en Python completamente en español.
+
+Es una calculadora que toma como valores 2 numeros.
+
+num1 y num2.
+
+Mediante input y condicionales if/elif/else le preguntamos
+al usuario que ingrese un numero entre 1 y 5.
+
+En base a la respuesta del usuario, el programa le muestra las opciones
+imprime el resultado y le vuelve a preguntar si quiere realizar otra operación.
+
+
